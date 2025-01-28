@@ -59,10 +59,10 @@ statuslinenc_bg = "darken(normal_bg, 0.03)"
 statuslinenc_fg = "lighten(normal_bg, 0.20)"
 
 # pmenu
-pmenu_bg    = "hsl($hue_base, 0.20, 0.30)"
+pmenu_bg    = "hsl($hue_base, 0.18, 0.17)"
 pmenu_fg    = "normal_fg"
-pmenusel_bg = "hsl($hue_base, 0.20, 0.45)"
-pmenusel_fg = "hsl($hue_base, 0.20, 0.95)"
+pmenusel_bg = "hsl($hue_base, 0.20, 0.25)"
+pmenusel_fg = "hsl($hue_base, 0.20, 0.90)"
 
 # misc
 comment_fg    = "hsl($hue_base, 0.12, 0.48)"

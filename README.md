@@ -1,3 +1,9 @@
+# Changes from original
+This is a personalized fork of oahlen's lua port of [iceberg.vim](https://github.com/cocopon/iceberg.vim).
+
+Change(s) from original:
+- Pmenu and related colors are dimmed
+
 # Iceberg Neovim
 
 Lua port of [iceberg.vim](https://github.com/cocopon/iceberg.vim)
